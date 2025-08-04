@@ -36,16 +36,6 @@ An all-in-one **E-commerce App** and **Admin Panel** built using AI-powered tool
 
 ---
 
-## 🔗 Stay Connected  
-
-For updates, tutorials, and support, follow us:  
-
-- [Telegram Channel](https://t.me/You_B_Tech)  
-- [YouTube](https://youtube.com/@You_B_Tech)  
-- [Instagram](https://instagram.com/you_b_tech)  
-- [Website](https://youbtech.xyz)  
-
----
 
 ## 📜 License  
 This project is licensed under the [MIT License](LICENSE).  
@@ -55,7 +45,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## 💡 Contributions  
 We welcome contributions! Feel free to open issues or submit pull requests to enhance the project.  
 
----
-
-## 📞 Support  
-If you have any questions or need help, visit our [Telegram Help Center](https://t.me/You_B_Tech_Coding).
